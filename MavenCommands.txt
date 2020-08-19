@@ -1,2 +1,7 @@
 1) mvn help:describe -Dcmd=<<PHASENAME>> ==> To list all the goals of a phase
 	eg: mvn help:describe -Dcmd=compile
+
+
+
+3) mvn help:descrive -Dcmd=compile -Doutput=<<OUTPUT FILE NAME>> ==> To redirect output/build-log of any maven command
+	eg : mvn help:describe -Dcmd=compile -Doutput=compileoutput.txt
