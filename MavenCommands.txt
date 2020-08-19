@@ -1,0 +1,2 @@
+1) mvn help:describe -Dcmd=<<PHASENAME>> ==> To list all the goals of a phase
+	eg: mvn help:describe -Dcmd=compile
