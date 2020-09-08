@@ -1,0 +1,13 @@
+D:\PJP2\C# Learning\Date Time Calculator\Date Time Calculator\bin\Debug\netcoreapp3.1\Date Time Calculator.exe
+D:\PJP2\C# Learning\Date Time Calculator\Date Time Calculator\bin\Debug\netcoreapp3.1\Date Time Calculator.deps.json
+D:\PJP2\C# Learning\Date Time Calculator\Date Time Calculator\bin\Debug\netcoreapp3.1\Date Time Calculator.runtimeconfig.json
+D:\PJP2\C# Learning\Date Time Calculator\Date Time Calculator\bin\Debug\netcoreapp3.1\Date Time Calculator.runtimeconfig.dev.json
+D:\PJP2\C# Learning\Date Time Calculator\Date Time Calculator\bin\Debug\netcoreapp3.1\Date Time Calculator.dll
+D:\PJP2\C# Learning\Date Time Calculator\Date Time Calculator\bin\Debug\netcoreapp3.1\Date Time Calculator.pdb
+D:\PJP2\C# Learning\Date Time Calculator\Date Time Calculator\obj\Debug\netcoreapp3.1\Date Time Calculator.csprojAssemblyReference.cache
+D:\PJP2\C# Learning\Date Time Calculator\Date Time Calculator\obj\Debug\netcoreapp3.1\Date Time Calculator.AssemblyInfoInputs.cache
+D:\PJP2\C# Learning\Date Time Calculator\Date Time Calculator\obj\Debug\netcoreapp3.1\Date Time Calculator.AssemblyInfo.cs
+D:\PJP2\C# Learning\Date Time Calculator\Date Time Calculator\obj\Debug\netcoreapp3.1\Date Time Calculator.csproj.CoreCompileInputs.cache
+D:\PJP2\C# Learning\Date Time Calculator\Date Time Calculator\obj\Debug\netcoreapp3.1\Date Time Calculator.dll
+D:\PJP2\C# Learning\Date Time Calculator\Date Time Calculator\obj\Debug\netcoreapp3.1\Date Time Calculator.pdb
+D:\PJP2\C# Learning\Date Time Calculator\Date Time Calculator\obj\Debug\netcoreapp3.1\Date Time Calculator.genruntimeconfig.cache
